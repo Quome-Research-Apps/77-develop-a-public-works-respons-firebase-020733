@@ -1,0 +1,1 @@
+{"name": "77-develop-a-public-works-respons-firebase-020733", "spec": {"port": 8000, "containers": [{"image": "", "name": "77-develop-a-public-works-respons-firebase-020733", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
